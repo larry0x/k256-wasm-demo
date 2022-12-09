@@ -12,3 +12,5 @@ documentation = "https://github.com/steak-enjoyers/rust-template#README"
 keywords      = ["template"]
 
 [dependencies]
+cosmwasm-std = "1.1"
+k256 = "0.11"
